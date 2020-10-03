@@ -1,7 +1,7 @@
 {
     "name": "aplia/ezjscore",
-    "description": "eZ Online Editor",
-    "keywords": ["ezextension", "editor"],
+    "description": "eZ JS Core",
+    "keywords": ["ezextension", "ezjscore"],
     "homepage": "https://github.com/Aplia/ezjscore",
     "type": "ezpublish-legacy-extension",
     "license": "GPL-2.0",
